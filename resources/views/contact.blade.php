@@ -66,7 +66,7 @@
                     {{--WhatsApp/Phone --}}
                     <div>
                         <h5 class="text-sm font-semibold text-[#555] uppercase tracking-wider mb-2">WhatsApp</h5>
-                        <a href="https://wa.me/6281296959420" target="_blank" class="text-lg hover:text-[#c4ff4d] transition">+62 812-3456-7890</a>
+                        <a href="https://wa.me/6281296959420" target="_blank" class="text-lg hover:text-[#c4ff4d] transition">+62 812-9695-9420</a>
                     </div>
                     {{--Social media links --}}
                     <div>
